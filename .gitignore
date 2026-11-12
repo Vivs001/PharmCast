@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+# local database and any real data: never commit
+pharmcast.db
+*.db
+*.sqlite
+real_data/
+*_REAL*.xlsx
+.env
